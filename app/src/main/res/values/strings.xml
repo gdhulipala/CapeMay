@@ -1,0 +1,202 @@
+
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">CapeMay</string>
+
+    <!-- Category name for tours-->
+    <string name="category_tours">Tours</string>
+
+    <!-- Category name for boattours  -->
+    <string name="category_boattours">Boat Tours and Water Sports</string>
+
+    <!-- Category name for nature -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for amusementparks -->
+    <string name="category_amusementparks">Amusement Parks</string>
+
+    <!-- Category name for museums -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for sightslandmarks -->
+    <string name="category_sightslandmarks">Sights and Landmarks</string>
+
+    <!-- Category name for outdoor -->
+    <string name="category_outdoor">Outdoor</string>
+
+    <!-- Address and phone number for museum one  -->
+    <string name="museum_one">215 Lighthouse Avenue, Cape May, NJ 08204 \n Phone:609-884-5404</string>
+
+    <!-- Address and phone number for museum two  -->
+    <string name="museum_two">500 Forrestal Rd,Cape May, NJ 08242-2203 \n Phone:609-886-8787</string>
+
+    <!-- Address and phone number for museum three  -->
+    <string name="museum_three">1048 Washington St, Cape May, NJ 08204-1737 \n Phone:609-884-5404</string>
+
+    <!-- Address and phone number for museum four  -->
+    <string name="museum_four">720 Route 9, Cape May, NJ 08204\n Phone:609-898-2300</string>
+
+    <!-- Address and phone number for museum five  -->
+    <string name="museum_five">643 Washington St, Cape May, NJ 08204\Phone:609-884-9512</string>
+
+    <!-- Address and phone number for museum six  -->
+    <string name="museum_six">313 Washington St, Cape May, NJ 08204\n Phone:1 800-304-6944</string>
+
+    <!-- Address and phone number for museum seven  -->
+    <string name="museum_seven">221 Jackson St, Cape May, NJ 08204\n Phone:609-884-6179 </string>
+
+    <!-- Address and phone number for sights one  -->
+    <string name="sights_one">521 Route 47 S, Cape May, NJ 08204-5101 \n Phone:609-889-4957</string>
+
+    <!-- Address and phone number for sights two  -->
+    <string name="sights_two">215 Lighthouse Avenue, Cape May, NJ 08204 \n Phone:609-884-5404</string>
+
+    <!-- Address and phone number for sights three  -->
+    <string name="sights_three">315 Ocean St,Cape May, NJ 08204\n Phone:609-884-4466</string>
+
+    <!-- Address and phone number for sights four  -->
+    <string name="sights_four">1048 Washington St, Cape May, NJ 08204-1737 \n Phone:609-884-5404</string>
+
+    <!-- Address and phone number for sights five  -->
+    <string name="sights_five">Sunset Boulevard, Cape May, NJ 08204 \n Phone:609-884-5404</string>
+
+    <!-- Address and phone number for sights six  -->
+    <string name="sights_six">720 Route 9, Cape May, NJ 08204\n Phone:609-898-2300</string>
+
+    <!-- Address and phone number for sights seven  -->
+    <string name="sights_seven">1218 Wilson Dr, Cape May, NJ 08204\n Phone:1 800-786-5445</string>
+
+    <!-- Address and phone number for sights eight  -->
+    <string name="sights_eight">542 New England Rd, Cape May, NJ 08204\n Phone:+1 609-884-0563</string>
+
+    <!-- Address and phone number for sights nine  -->
+    <string name="sights_nine">525 Elmira St, Cape May, NJ 08204\n Phone:+1 609-432-1690</string>
+
+    <!-- Address and phone number for sights ten  -->
+    <string name="sights_ten">Washington and Franklin Streets, Cape May, NJ 08204\n Phone:1 609-884-9100 </string>
+
+    <!-- Address and phone number for outdoor one  -->
+    <string name="outdoor_one">Beach Avenue, Cape May, NJ 08204</string>
+
+    <!-- Address and phone number for outdoor two  -->
+    <string name="outdoor_two">Cape May Inlet Marina, Cape May, NJ 08204\n Phone:609-884-3100</string>
+
+    <!-- Address and phone number for outdoor three  -->
+    <string name="outdoor_three">1218 Wilson Dr, Cape May, NJ 08204\n Phone:609-884-5445</string>
+
+    <!-- Address and phone number for outdoor four  -->
+    <string name="outdoor_four">1218 Wilson Dr, Cape May, NJ 08204\nPhone:609-898-3500</string>
+
+    <!-- Address and phone number for outdoor five  -->
+    <string name="outdoor_five">1121 Route 109,Cape May,NJ 08204\nPhone:609-898-0055</string>
+
+    <!-- Address and phone number for outdoor six  -->
+    <string name="outdoor_six">Cape May, NJ 08204</string>
+
+    <!-- Address and phone number for outdoor seven  -->
+    <string name="outdoor_seven">1121 Route 109,Cape May, NJ 08204\n Phone:609-898-8359</string>
+
+    <!-- Address and phone number for outdoor eight  -->
+    <string name="outdoor_eight">1231 Route 109,Cape May, NJ 08204\n Phone:609-602-1118</string>
+
+    <!-- Address and phone number for outdoor nine  -->
+    <string name="outdoor_nine">1218 Wilson Dr, Cape May, NJ 08204\nPhone:609-884-3351</string>
+
+    <!-- Address and phone number for outdoor ten  -->
+    <string name="outdoor_ten">1600 Delaware Ave,Cape May, NJ 08204\nPhone:609-884-5600</string>
+
+    <!-- Address and phone number for tours one  -->
+    <string name="tours_one">Cape May Inlet Marina, Cape May, NJ 08204\n Phone:609-884-3100</string>
+
+    <!-- Address and phone number for tours two  -->
+    <string name="tours_two">Cape May, NJ 08204\n Phone:609-527-3131</string>
+
+    <!-- Address and phone number for tours three  -->
+    <string name="tours_three">401 Washington St, Cape May, NJ 08204\n Phone: 609-884-5404</string>
+
+    <!-- Address and phone number for tours four  -->
+    <string name="tours_four">1218 Wilson Dr, Cape May, NJ 08204\n Phone:609-884-5445</string>
+
+    <!-- Address and phone number for tours five  -->
+    <string name="tours_five">1218 Wilson Dr, Cape May, NJ 08204\n Phone:609-884-5445</string>
+
+    <!-- Address and phone number for tours six  -->
+    <string name="tours_six">1121 Route 109,Cape May,NJ 08204\nPhone:609-898-0055</string>
+
+    <!-- Address and phone number for tours seven  -->
+    <string name="tours_seven">45 Breakwater Pl, Cape May, NJ 08204\n Phone:484-695-6465"</string>
+
+    <!-- Address and phone number for tours eight  -->
+    <string name="tours_eight">1121 Route 109,Cape May, NJ 08204\n Phone:609-898-8359</string>
+
+    <!-- Address and phone number for tours nine  -->
+    <string name="tours_nine">1231 Route 109,Cape May, NJ 08204\n Phone:609-602-1118</string>
+
+    <!-- Address and phone number for tours ten  -->
+    <string name="tours_ten">1600 Delaware Ave,Cape May, NJ 08204\nPhone:609-884-5600</string>
+
+    <!-- Address and phone number for boattours one  -->
+    <string name="boattours_one">Cape May Inlet Marina, Cape May, NJ 08204\n Phone:609-884-3100</string>
+
+    <!-- Address and phone number for boattours two  -->
+    <string name="boattours_two">1218 Wilson Dr, Cape May, NJ 08204\n Phone:609-884-5445</string>
+
+    <!-- Address and phone number for boattours three  -->
+    <string name="boattours_three">1218 Wilson Dr,Cape May, NJ 08204\nPhone:609-898-3500</string>
+
+    <!-- Address and phone number for boattours four  -->
+    <string name="boattours_four">1121 Route 109, Cape MayNJ 08204\nPhone:609-898-0055</string>
+
+    <!-- Address and phone number for boattours five  -->
+    <string name="boattours_five">1121 Route 109,Cape May, NJ 08204\n Phone:609-898-8359</string>
+
+    <!-- Address and phone number for boattours six  -->
+    <string name="boattours_six">1231 Route 109,Cape May, NJ 08204\n Phone:609-602-1118</string>
+
+    <!-- Address and phone number for boattours seven  -->
+    <string name="boattours_seven">1218 Wilson Dr, Cape May, NJ 08204\nPhone:609-884-3351</string>
+
+    <!-- Address and phone number for boattours eight  -->
+    <string name="boattours_eight">1600 Delaware Ave,Cape May, NJ 08204\nPhone:609-884-5600</string>
+
+    <!-- Address and phone number for boattours nine  -->
+    <string name="boattours_nine">956A Ocean Dr, Cape May, NJ 08204\nPhone:609-884-1224</string>
+
+    <!-- Address and phone number for boattours ten  -->
+    <string name="boattours_ten">978 Ocean Dr,Cape May, NJ 08204\nPhone:609-827-1086</string>
+
+    <!-- Address and phone number for nature one  -->
+    <string name="nature_one">Beach Avenue, Cape May, NJ 08204</string>
+
+    <!-- Address and phone number for nature two  -->
+    <string name="nature_two">Sunset Boulevard, Cape May, NJ</string>
+
+    <!-- Address and phone number for nature three  -->
+    <string name="nature_three">1600 Delaware Ave, Cape May, NJ 08204</string>
+
+    <!-- Address and phone number for nature four  -->
+    <string name="nature_four">Cape May, NJ 08204</string>
+
+    <!-- Address and phone number for nature five  -->
+    <string name="nature_five">Wilson St, Cape Island Creek, Cape May, NJ</string>
+
+    <!-- Address and phone number for amusementparks one  -->
+    <string name="amusementparks_one">3501 Boardwalk, Wildwood, NJ 08260\n Phone: 609-522-3900</string>
+
+    <!-- Address and phone number for amusementparks two  -->
+    <string name="amusementparks_two">3500 Boardwalk, Wildwood, NJ 08260</string>
+
+    <!-- Address and phone number for amusementparks three  -->
+    <string name="amusementparks_three">3501 Boardwalk, North Wildwood, NJ 08260 \N Phone:609-522-3900</string>
+
+    <!-- Address and phone number for amusementparks four  -->
+    <string name="amusementparks_four">3501 Boardwalk,Wildwood, NJ 08260 \n Phone:609-729-3700</string>
+
+    <!-- Address and phone number for amusementparks five  -->
+    <string name="amusementparks_five">1800 Boardwalk, North Wildwood, NJ 08260\n Phone:609-523-1000</string>
+
+    <!-- Address and phone number for amusementparks six  -->
+    <string name="amusementparks_six">Ocean Ave E Leaming Ave, Wildwood, NJ </string>
+
+
+</resources>

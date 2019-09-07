@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_sights">#FD8E09</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_outdoor">#379237</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_museum">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_tours">#16AFCA</color>
+
+    <!-- Background color for the boattours category -->
+    <color name="category_boattours">#FF5252</color>
+
+    <!-- Background color for the nature category -->
+    <color name="category_nature">#3F51B5</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_amusementparks">#FF8A65</color>
+
+</resources>
+

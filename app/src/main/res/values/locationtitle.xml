@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Museum title one  -->
+    <string name="museumtitle_one">Cape May Lighthouse</string>
+
+    <!-- Museum title two  -->
+    <string name="museumtitle_two">Naval Air Station Museum</string>
+
+    <!-- Museum title three  -->
+    <string name="museumtitle_three">Emlen Physick Estate</string>
+
+    <!-- Museum title four  -->
+    <string name="museumtitle_four">Historic Cold Spring Village</string>
+
+    <!-- Museum title five  -->
+    <string name="museumtitle_five">Fire Department Museum</string>
+
+    <!-- Museum title six  -->
+    <string name="museumtitle_six">Washington Street Gallery  </string>
+
+    <!-- Museum title seven -->
+    <string name="museumtitle_seven">Guardian</string>
+
+    <!-- Outdoor title one -->
+    <string name="outdoortitle_one">Cape May City Beaches</string>
+
+    <!-- Outdoor title two -->
+    <string name="outdoortitle_two">Salt Marsh Safari-The Skimmer</string>
+
+    <!-- Outdoor title three -->
+    <string name="outdoortitle_three">Cape May Whale Watcher</string>
+
+    <!-- Outdoor title four -->
+    <string name="outdoortitle_four">Birding By Boat on the Osprey</string>
+
+    <!-- Outdoor title five -->
+    <string name="outdoortitle_five">Whale Watch and Research Center</string>
+
+    <!-- Outdoor title six -->
+    <string name="outdoortitle_six">Poverty Beach</string>
+
+    <!-- Outdoor title seven -->>
+    <string name="outdoortitle_seven">East Coast Parasail</string>
+
+    <!-- Outdoor title eight -->
+    <string name="outdoortitle_eight">Tiny Cruise Line</string>
+
+    <!-- Outdoor title nine -->
+    <string name="outdoortitle_nine">Miss Chris Marina and Kayaks</string>
+
+    <!-- Outdoor title ten -->
+    <string name="outdoortitle_ten">Aqua Trails</string>
+
+    <!-- Sights title one -->
+    <string name="sightstitle_one">Jersey Shore Alpacas</string>
+
+    <!-- Sights title two -->
+    <string name="sightstitle_two">Cape May Lighthouse</string>
+
+    <!-- Sights title three -->
+    <string name="sightstitle_three">Cape May Carriage Company</string>
+
+    <!-- Sights title four -->
+    <string name="sightstitle_four">Emlen Physick Estate</string>
+
+    <!-- Sights title five -->
+    <string name="sightstitle_five">World War II Lookout Tower</string>
+
+    <!-- Sights title six -->
+    <string name="sightstitle_six">Historic Cold Spring Village</string>
+
+    <!-- Sights title seven -->
+    <string name="sightstitle_seven">Spirit of Cape May</string>
+
+    <!-- Sights title eight -->
+    <string name="sightstitle_eight">Bay Springs Farm Alpacas</string>
+
+    <!-- Sights title nine -->
+    <string name="sightstitle_nine">Cape May Model Trains</string>
+
+    <!-- Sights title ten -->
+    <string name="sightstitle_ten">The Colonial House</string>
+
+    <!-- Tours title one -->
+    <string name="tourstitle_one">Salt Marsh Safari-The Skimmer</string>
+
+    <!-- Tours title two -->
+    <string name="tourstitle_two">Cape May Food Tours</string>
+
+    <!-- Tours title three -->
+    <string name="tourstitle_three">Cape May Trolley Tour</string>
+
+    <!-- Tours title four -->
+    <string name="tourstitle_four">Cape May Whale Watcher</string>
+
+    <!-- Tours title five -->
+    <string name="tourstitle_five">Birding By Boat on the Osprey</string>
+
+    <!-- Tours title six -->
+    <string name="tourstitle_six">Whale Watch and Research Center</string>
+
+    <!-- Tours title seven -->
+    <string name="tourstitle_seven">Tastings and Tours</string>
+
+    <!-- Tours title eight -->
+    <string name="tourstitle_eight">East Coast Parasail</string>
+
+    <!-- Tours title nine -->
+    <string name="tourstitle_nine">Tiny Cruise Line</string>
+
+    <!-- Tours title ten -->
+    <string name="tourstitle_ten">Aqua Trails</string>
+
+    <!-- boat tours title one -->
+    <string name="boattourstitle_one">Salt Marsh Safari-The Skimmer</string>
+
+    <!-- boat tours title two -->
+    <string name="boattourstitle_two">Cape May Whale Watcher</string>
+
+    <!-- boat tours title three -->
+    <string name="boattourstitle_three">Birding By Boat on the Osprey</string>
+
+    <!-- boat tours title four -->
+    <string name="boattourstitle_four">Whale Watch and Research Center</string>
+
+    <!-- boat tours title five -->
+    <string name="boattourstitle_five">East Coast Parasail</string>
+
+    <!-- boat tours title six -->
+    <string name="boattourstitle_six">Tiny Cruise Line</string>
+
+    <!-- boat tours title seven -->
+    <string name="boattourstitle_seven">Miss Chris Marina and Kayaks</string>
+
+    <!-- boat tours title eight -->
+    <string name="boattourstitle_eight">Aqua Trails</string>
+
+    <!-- boat tours title nine -->
+    <string name="boattourstitle_nine">Cape Kayaks</string>
+
+    <!-- boat tours title ten -->
+    <string name="boattourstile_ten">SUP Cape May</string>
+
+    <!-- Nature title one -->
+    <string name="naturetitle_one">Cape May City Beaches</string>
+
+    <!-- Nature title two -->
+    <string name="naturetitle_two">South Cape May Meadows</string>
+
+    <!-- Nature title three -->
+    <string name="naturetitle_three">Nature Center Cape May</string>
+
+    <!-- Nature title four -->
+    <string name="naturetitle_four">Poverty Beach</string>
+
+    <!-- Nature title five -->
+    <string name="naturetitle_five">Garrett Family Preserve</string>
+
+    <!-- amusement park title one -->
+    <string name="amusementparkstitle_one">Moryes Piers </string>
+
+    <!-- amusement park title two -->
+    <string name="amusementparkstitle_two">Splash Zone Water Park</string>
+
+    <!-- amusement park title three -->
+    <string name="amusementparkstitle_three">Ocean Oasis Water Park</string>
+
+    <!-- amusement park title four -->
+    <string name="amusementparkstitle_four">Breakfast in the Sky</string>
+
+    <!-- amusement park title five -->
+    <string name="amusementparkstitle_five">Montego Bay Waterpark</string>
+
+    <!-- amusement park title six -->
+    <string name="amusementparkstitle_six">Hippo Water Slide</string>
+
+
+</resources>

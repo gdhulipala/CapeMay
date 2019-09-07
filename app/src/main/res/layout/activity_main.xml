@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/tan_background"
+        android:orientation="vertical"
+        tools:context="com.example.ganga.capemay.MainActivity">
+
+        <!--  Sights and Landmarks category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_sights">
+            <TextView
+                android:id="@+id/sightslandmarks"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_sightslandmarks" />
+        </FrameLayout>
+
+        <!-- Outdoor category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_outdoor">
+            <TextView
+                android:id="@+id/outdoor"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_outdoor" />
+        </FrameLayout>
+
+        <!-- Museums category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_museum">
+            <TextView
+                android:id="@+id/museums"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_museums" />
+        </FrameLayout>
+
+        <!-- Tours category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_tours">
+            <TextView
+                android:id="@+id/tours"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_tours" />
+        </FrameLayout>
+
+        <!-- Boattours and watersports category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_boattours">
+            <TextView
+                android:id="@+id/boattours"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_boattours" />
+        </FrameLayout>
+
+        <!-- Nature category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_nature">
+            <TextView
+                android:id="@+id/nature"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_nature" />
+        </FrameLayout>
+
+        <!-- Amusement category -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_amusementparks">
+            <TextView
+                android:id="@+id/amusementparks"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_amusementparks" />
+        </FrameLayout>
+    </LinearLayout>
+</ScrollView>
